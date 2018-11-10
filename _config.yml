@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 # rebuild 0
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-lang: en-US
-title: My Site
+lang: en-GB
+title: Jaifroid's Site
 email: egk10@cam.ac.uk
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
