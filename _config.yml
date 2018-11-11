@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! - recompile 1
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaifroid"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Reader in Latin American Culture"
   location         : "University of Cambridge"
-  email            :
+  email            : "egk10@cam.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
